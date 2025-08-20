@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**danielfsenne/danielfsenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Daniel Senne  
 
-Here are some ideas to get you started:
+Sou **Desenvolvedor Fullstack Júnior**, apaixonado por tecnologia e em constante aprendizado.  
+Tenho experiência em **desenvolvimento front-end e back-end**, já atuei como estagiário voluntário na **Sette Tecnologias** e também trabalhei como **freelancer como desenvolvedor frontend Vue.js**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+- **Front-end:** HTML, CSS, JavaScript, Vue.js, Angular, Ionic  
+- **Back-end:** Node.js, Express, Bun  
+- **Banco de Dados:** MySQL, MongoDB  
+- **Outros:** Git, GitHub, APIs REST, Web Scraping  
+
+---
+
+## 📚 Atualmente
+- Estudando **Análise e Desenvolvimento de Sistemas**  
+- Desenvolvendo projetos pessoais para aprimorar minhas habilidades  
+- Explorando boas práticas de código e arquitetura de software  
+
+---
+
+## 🌐 Contato
+- ✉️ Email: **danielflausinosenne123@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-flausino-0484ab275)  
+
+---
+
+⭐ Se curtir meus projetos, não esqueça de deixar uma **star** nos repositórios!
+
