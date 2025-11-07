@@ -10,7 +10,8 @@ Tenho experiência em **desenvolvimento front-end e back-end**, já atuei como e
 ## 🚀 Tecnologias e Ferramentas
 - **Front-end:** HTML, CSS, JavaScript, Vue.js, Angular, Ionic, React  
 - **Back-end:** Node.js, Express, Bun  
-- **Banco de Dados:** MySQL, MongoDB  
+- **Banco de Dados:** MySQL, MongoDB
+- **Mobile: Dart e Flutter
 - **Outros:** Git, GitHub, APIs REST, Web Scraping  
 
 ---
