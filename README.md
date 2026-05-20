@@ -25,7 +25,8 @@ Tenho experiência em **desenvolvimento front-end e back-end**, já atuei como e
 
 ## 🌐 Contato
 - ✉️ Email: **danielflausinosenne123@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/daniel-flausino-0484ab275)  
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-flausino-0484ab275)
+- WhatsApp: (16) 99430-2778.
 
 ---
 
