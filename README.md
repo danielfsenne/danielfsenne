@@ -1,6 +1,6 @@
 #  Olá, eu sou Daniel Senne
 
-# Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de aplicações web utilizando tecnologias modernas de front-end e back-end. Possuo conhecimento em Angular, Vue.js, React, Node.js, além de bancos de dados relacionais e não relacionais, atuando na construção de soluções escaláveis, performáticas e centradas na experiência do usuário.
+ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de aplicações web utilizando tecnologias modernas de front-end e back-end. Possuo conhecimento em Angular, Vue.js, React, Node.js, além de bancos de dados relacionais e não relacionais, atuando na construção de soluções escaláveis, performáticas e centradas na experiência do usuário.
 
 Minha trajetória inclui atuação como estagiário voluntário na Sette Tecnologias e experiência como desenvolvedor frontend freelancer com Vue.js, participando da implementação e evolução de aplicações reais.
 
